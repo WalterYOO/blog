@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://walteryoo.github.io/wy.blog/sitemap.xml 
