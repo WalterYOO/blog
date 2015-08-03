@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://walteryoo.github.io/wy.blog/atom.xml" rel="self"/>
-  <link href="http://walteryoo.github.io/wy.blog/"/>
-  <updated>2015-08-03T11:53:49+08:00</updated>
-  <id>http://walteryoo.github.io/wy.blog/</id>
+  <title><![CDATA[Walter's Blog]]></title>
+  <link href="http://walteryoo.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://walteryoo.github.io/blog/"/>
+  <updated>2015-08-03T12:48:41+08:00</updated>
+  <id>http://walteryoo.github.io/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Walter Yoo]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://walteryoo.github.io/blog/blog/2015/08/03/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2015-08-03T12:30:05+08:00</updated>
+    <id>http://walteryoo.github.io/blog/blog/2015/08/03/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<h1>What!!!</h1>
+]]></content>
+  </entry>
   
 </feed>
